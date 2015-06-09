@@ -1,0 +1,21 @@
+{
+  "name": "ng-serialize",
+  "description": "Angular Module for Serialize",
+  "version": "1.0.1",
+  "keywords": [
+    "serialize",
+    "js",
+    "front-end",
+    "web"
+  ],
+  "homepage": "https://github.com/miamarti/ng.serialize",
+  "main": "angularjs/plugins/ng-serialize/ng-serialize-1.0.1.js",
+  "ignore": [
+    "/.*",
+    "**/.*",
+    "build",
+    "speed",
+    "test",
+    "*.md"
+  ]
+}
